@@ -21,7 +21,13 @@ mnelson:Desktop mnelson$ cd ~/Desktop
 mnelson:Desktop mnelson$ mkdir myproject
 <br>
 mnelson:Desktop mnelson$ cd myproject/
-
+<br>
+mnelson:myproject mnelson$ git commit -m "This is my first commit!"
+[master (root-commit) b345d9a] This is my first commit!
+ 1 file changed, 1 insertion(+)
+ create mode 100644 mnelson.txt
+ <br>
+ 
 SELECT MAX(Price) AS LargestPrice
 FROM Products;
 
