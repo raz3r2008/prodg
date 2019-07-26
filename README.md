@@ -17,5 +17,9 @@ laser
   <option value="audi">Audi</option>
 </select>
 
+SELECT MAX(Price) AS LargestPrice
+FROM Products;
+
 </body>
+
 <html>
