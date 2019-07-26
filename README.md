@@ -15,8 +15,11 @@ laser
   <option value="mercedes">Mercedes</option>
   <option value="audi">Audi</option>
 </select>
+<br>
 mnelson:Desktop mnelson$ cd ~/Desktop
+<br>
 mnelson:Desktop mnelson$ mkdir myproject
+<br>
 mnelson:Desktop mnelson$ cd myproject/
 
 SELECT MAX(Price) AS LargestPrice
