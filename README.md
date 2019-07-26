@@ -1,5 +1,4 @@
-<html>
-<body bgcolor="blue">
+
   
   # prodg
   <br>
@@ -20,6 +19,3 @@ laser
 SELECT MAX(Price) AS LargestPrice
 FROM Products;
 
-</body>
-
-</html>
