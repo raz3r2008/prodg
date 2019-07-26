@@ -8,6 +8,6 @@
 <li>
 laser
   cannon
-</li
+</li>
 </body>
 <html>
